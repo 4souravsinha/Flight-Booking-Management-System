@@ -4,9 +4,9 @@ This parent repo contains link to all the microservices(sub-modules) for this pr
 
 ## Objective - 
 
-We need to build a backend system that can support different features for an airline company. Our end user is going to be someone who wants to book flights and query about flights so we need a robust system to actually help them give the best experience possible.We want to prepare the whole backend keeping the fact in mind that the code base should be as maintainable as possible. 
+We need to build a backend system that can support different features for an airline company. Our end user is going to be someone who wants to book flights and query about flights so we needf a robust system to actually help them give the best experience possible.We want to prepare the whole backend keeping the fact in mind that the code base should be as maintainable as possible. 
 
-## Requirements - 
+## Features - 
 
 * A user should be able to search for flights from one place to another.
     * User should be able to mention the source and destination
